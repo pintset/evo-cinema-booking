@@ -1,0 +1,2792 @@
+[
+    {
+        "id": "83bc5698-4f62-489b-8d28-f749b65a8e52",
+        "movieId": 7,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-29T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "92f905ce-b09f-46a6-9f33-be30826417bc",
+        "movieId": 1,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-27T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "dcb709fb-58dd-49b0-a5c5-c07e33f889ba",
+        "movieId": 7,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-26T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "2bbb35ac-be65-47a3-9548-b6dd84ef059a",
+        "movieId": 6,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-29T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "eac3c842-636c-47cd-86a2-4de5f64e08d2",
+        "movieId": 5,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-27T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "f084b1f9-a947-40f8-8173-9de66d8aeb37",
+        "movieId": 1,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-29T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "bbdd0a0f-c788-4c47-a1e9-f0367b7ab765",
+        "movieId": 1,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-30T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "8d31b8f0-76a8-4c3e-afed-cfa080f72762",
+        "movieId": 6,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-30T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "48e3c9bd-cc1d-4a82-8b2d-bd3dee289cfb",
+        "movieId": 1,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-26T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "2db2da03-7c74-40f2-8a00-67458144045e",
+        "movieId": 6,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-06-01T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "5381694b-c116-439e-b7b6-be9338d18636",
+        "movieId": 5,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-27T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "b5aeb855-31c1-43dc-b001-fda7225597d4",
+        "movieId": 3,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-27T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "8a6c333a-bb16-46f0-956f-3c9fcb463f14",
+        "movieId": 2,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-30T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "821e038d-c189-475b-82b3-c054a111c41d",
+        "movieId": 1,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-29T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "75b69087-a09e-403f-9cd2-4ecb42f062c5",
+        "movieId": 5,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-29T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "9e048b65-ef61-4411-aba3-1d38acb27d64",
+        "movieId": 4,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-27T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "2e6c1d2e-8693-40f7-b73e-d1990c937726",
+        "movieId": 3,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-26T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "26177f6f-63e9-4be3-9c04-ad2f4a4ba841",
+        "movieId": 2,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-29T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "c05abb3a-6f74-4d74-b8af-c1d2dc830802",
+        "movieId": 5,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-31T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "80f46aa1-b77a-46d7-afd6-4c9e923f9491",
+        "movieId": 3,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-30T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "6b5546ac-7a5c-4018-bcee-f9a813aba7ed",
+        "movieId": 6,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-31T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "37cbe561-c038-4f00-9f6d-fe7ef385b864",
+        "movieId": 3,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-29T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "6def276b-8789-4743-9749-1f31cd1c9da5",
+        "movieId": 5,
+        "auditoriumId": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "dateTime": "2021-05-26T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "8b88bc6b-182a-4fce-af1a-8e7e1618f589",
+        "movieId": 1,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-06-01T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "6fdea63b-c048-4289-9114-24afd80ce94c",
+        "movieId": 2,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-26T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "e9d0bd8c-7a02-4d07-9d7c-08bc8d86b102",
+        "movieId": 1,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-06-01T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "9ad83a85-cf4f-4b9e-88c4-f574d03144c0",
+        "movieId": 7,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-30T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "2553e8b7-2f81-4d97-9620-9747e1e1eb89",
+        "movieId": 1,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-27T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "d593d416-12c5-45c8-a931-b349c97e761d",
+        "movieId": 5,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-31T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "57dcfbd4-3d5b-441b-928d-b42eab27b008",
+        "movieId": 2,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-27T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "e951b10d-bd54-46ab-81e2-9fb0a5f6f98d",
+        "movieId": 1,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-27T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "2c7aaded-d2fe-4077-876b-06812cd31ba5",
+        "movieId": 7,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-26T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "b496536a-3fd1-457f-a1c7-995506d0bd16",
+        "movieId": 2,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-31T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "10010f7c-1f8e-477a-abc8-e21268a0bd87",
+        "movieId": 3,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-06-01T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "e64dc35d-6adf-4484-86a1-1680186cbf26",
+        "movieId": 6,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-28T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "b54cac2b-9707-4aec-8c28-ac0322f6c480",
+        "movieId": 3,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-28T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "6a5a6593-696b-495f-89b1-2d08bac8a92d",
+        "movieId": 7,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-31T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "5096cac6-503d-4e32-958f-80eace409384",
+        "movieId": 7,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-29T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "8bb57054-d375-4fb5-af28-e184ab814c80",
+        "movieId": 7,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-28T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "a3ea2d18-6084-41f5-8d88-4cc5bd1778bc",
+        "movieId": 3,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-27T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "02fa7bed-ae9a-4986-950c-dbf7a1c8f4f3",
+        "movieId": 2,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-06-01T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "c5ce224a-157f-44af-bba2-1ef3a5f0503f",
+        "movieId": 2,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-30T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "7a5faf37-1e55-4cb0-b6c7-43090f07e5e7",
+        "movieId": 2,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-31T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "047f6eae-de2a-48ed-926f-196b99d3a0d4",
+        "movieId": 3,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-26T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "d6ba4cc4-35d3-45c5-8419-2c8204be1643",
+        "movieId": 1,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-29T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "0f1cadde-f40d-41b2-94a7-8ea923a0806b",
+        "movieId": 4,
+        "auditoriumId": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "dateTime": "2021-05-28T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "a48d2f72-32fa-454d-8389-f03b0f899637",
+        "movieId": 5,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-26T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "38ef3995-0f9e-47d1-8a03-c1a5fa6b4a30",
+        "movieId": 5,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-30T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "315a3864-51f0-46c4-8887-956ae7d13f53",
+        "movieId": 7,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-30T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "82c6298c-99f4-4679-bbbf-a21ba6d97cca",
+        "movieId": 5,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-31T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "535783b6-4aaf-4c13-8cbb-7b69ca2ceb68",
+        "movieId": 3,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-31T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "dedd165b-fc66-4d10-bfee-8ed1b4a35a3d",
+        "movieId": 4,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-06-01T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "b78c02fd-74d6-41b2-9653-bf731e83a3dd",
+        "movieId": 5,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-06-01T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "6e7e2e06-b817-420e-959c-2ee1a653a394",
+        "movieId": 2,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-26T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "6bad8ebd-2269-4ebd-9670-40aaedf20c18",
+        "movieId": 6,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-29T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "702d7c6e-d477-4bab-8cb3-250a9c29b1ae",
+        "movieId": 2,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-28T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "182b421d-9dea-4e1d-b1e5-26401adb633c",
+        "movieId": 7,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-06-01T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "01315605-d095-4fcb-9f94-6dc8fe6c6156",
+        "movieId": 6,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-27T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "a1b8d571-ddfc-40c1-8d89-b8b67021b79c",
+        "movieId": 4,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-27T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "263267c3-cef8-4c56-8594-5188930c0ba1",
+        "movieId": 6,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-28T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "4429f40b-927f-43b2-8f0e-83fe299f63b8",
+        "movieId": 1,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-27T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "bb6873fe-4274-42af-b00a-373331b2ecf0",
+        "movieId": 2,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-27T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "f5ef5570-dcf0-487f-9bf6-f73dbd7c279b",
+        "movieId": 5,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-26T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "ed278107-5eee-48b3-9203-35c789314cfe",
+        "movieId": 2,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-06-01T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "3288ae28-4210-4ccf-a3bb-019638c917dc",
+        "movieId": 7,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-28T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "e14c0cc1-b031-4b3d-a877-145883e76668",
+        "movieId": 3,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-28T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "068ebe09-7dc9-4f06-bdf0-b5194ac29944",
+        "movieId": 5,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-27T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "1f7066e6-0bfa-4d27-90ea-3b6ad960bfa4",
+        "movieId": 5,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-30T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "b7220f2b-9333-4588-84c7-29813dc470ab",
+        "movieId": 1,
+        "auditoriumId": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "dateTime": "2021-05-27T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "0c5f6386-3b3d-489b-a84b-8a865066fc4c",
+        "movieId": 6,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-26T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "b2f4b33a-1352-4884-971c-37342e8e69b7",
+        "movieId": 6,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-31T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "85610c10-fa8c-4eb0-a8b4-b3ffaf35e780",
+        "movieId": 2,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-30T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "74d42d4f-cf73-4336-bf68-5554ce84c864",
+        "movieId": 1,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-29T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "5c555f87-901b-4a7c-b555-e4974c95fec6",
+        "movieId": 7,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-29T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "cdc093b8-bc9e-43ff-8211-627482433d17",
+        "movieId": 1,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-28T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "4e6eb4d4-0b7d-4ff1-8312-7e52291cdce8",
+        "movieId": 1,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-29T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "c9655fc1-ac0d-40d9-998b-3d8b5b08412a",
+        "movieId": 6,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-28T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "d6942d06-e19d-4abb-8dbd-4e7a14f0c7ce",
+        "movieId": 5,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-27T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "8b7b3b5a-bd8f-4c6a-a134-4c832bcc0bf7",
+        "movieId": 3,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-28T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "97c4f66a-d187-485b-909c-53f53e66d9c5",
+        "movieId": 7,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-31T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "b9876d78-2d9f-4bf7-94e2-7c9bc52fc957",
+        "movieId": 5,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-06-01T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "735a82a1-637a-4993-a985-36a4587dbbc5",
+        "movieId": 7,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-29T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "4dbac6c6-221f-41e8-abc4-86d37c94af66",
+        "movieId": 3,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-06-01T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "f8aeaf27-1732-43c1-89cd-9608a4e96ccc",
+        "movieId": 5,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-28T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "587af3f9-3fc0-4ef1-96a4-3c2016d352e0",
+        "movieId": 1,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-28T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "981ef1cb-5cc1-4440-a053-1d3502494750",
+        "movieId": 3,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-28T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "f3ce9ff5-b8e9-4f69-8c5e-1fe27173cb90",
+        "movieId": 4,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-31T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "5c2251af-441b-4800-a7e4-53b344cf8329",
+        "movieId": 4,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-27T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "6eb28077-4d0d-4c01-acc5-feec830448e6",
+        "movieId": 6,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-29T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "fd28c07d-ee43-4a06-bf24-375204b27fa0",
+        "movieId": 6,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-26T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "e7773075-2447-4cb3-b4d8-7473e3bff2f4",
+        "movieId": 4,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-30T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "976fa3eb-f76f-488c-a048-6786dec34329",
+        "movieId": 3,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-05-30T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "7a533379-bc43-4671-9c0a-dccb6019548e",
+        "movieId": 2,
+        "auditoriumId": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "dateTime": "2021-06-01T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "e30f61ea-8afb-44d9-9394-ca1c66acef2c",
+        "movieId": 6,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-27T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "a13be236-cf19-4adf-b05e-b8cbe83a0987",
+        "movieId": 6,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-28T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "ca876bde-14be-420e-a469-13c764b93c8d",
+        "movieId": 6,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-31T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "33dbfe50-6d50-4f12-a6f0-e52a91eb525f",
+        "movieId": 1,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-28T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "bc98a34c-40f7-450e-b972-97c4bb60e3be",
+        "movieId": 2,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-31T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "12095ee4-df81-4179-af22-3e65ac21c431",
+        "movieId": 6,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-27T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "412954ed-2d6a-436e-aae8-cb3103c2cfd6",
+        "movieId": 2,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-27T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "004a0cc9-1961-4790-a98d-98ed56f14ccd",
+        "movieId": 7,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-31T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "862239e0-0bc5-45f5-b4d6-df5a8cca5f85",
+        "movieId": 3,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-29T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "1c2c58e2-2737-4b21-9203-acf4c38546bd",
+        "movieId": 1,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-30T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "ea5170e2-4468-49ec-8546-d95336796910",
+        "movieId": 7,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-27T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "191e71b6-3988-432d-8f02-c3694780f5d1",
+        "movieId": 6,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-29T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "f5932053-748c-40dd-8c2d-799daf09f4b8",
+        "movieId": 5,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-26T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "318a3894-e63c-4d52-9be9-41667b501d97",
+        "movieId": 4,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-28T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "66d5c7c3-8e7f-4efd-9aff-d85c87f5a6d4",
+        "movieId": 2,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-06-01T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "7097e744-74f0-40d9-a350-0d5639caf895",
+        "movieId": 6,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-06-01T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "aeee2de1-428b-4284-a5bc-bf810596dd0d",
+        "movieId": 4,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-26T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "d0404b30-582d-40c8-80cf-327e1ec54d0e",
+        "movieId": 5,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-27T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "76ec51ae-4444-469a-9f6d-8b5c6a1df70b",
+        "movieId": 4,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-27T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "dc35cc4f-abc5-4c12-ba7e-8d61d198e723",
+        "movieId": 6,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-06-01T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "2adb4062-a417-49bf-8aee-bacfbb643fe6",
+        "movieId": 1,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-30T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "d816fc57-f026-4543-96fd-57c58012b3bb",
+        "movieId": 6,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-27T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "0091bc54-12ec-4910-8c0d-5351204361a2",
+        "movieId": 7,
+        "auditoriumId": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "dateTime": "2021-05-30T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "ce44faea-62d4-4686-b352-cb02c58784ee",
+        "movieId": 6,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-26T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "1e4b169b-3271-4ae0-849b-cd01ea3aac28",
+        "movieId": 3,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-06-01T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "0708f775-d821-4722-89df-6471214f86ba",
+        "movieId": 6,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-30T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "81d12fca-69a1-4b6c-a9be-0ca8d4c2b955",
+        "movieId": 5,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-28T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "4d07a002-9b81-4aa9-8412-77c455439860",
+        "movieId": 2,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-30T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "ad56d528-d3a5-4e82-9929-00fa313eb935",
+        "movieId": 4,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-29T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "2878c064-0a77-4d75-8e4f-971267b26081",
+        "movieId": 2,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-30T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "4e4b1ad6-105c-4efb-9429-5188937b6686",
+        "movieId": 1,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-27T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "6e188d81-440a-4e9e-8843-ac23f7289783",
+        "movieId": 4,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-31T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "14268f98-a71c-4e6f-94a9-3fae568b9134",
+        "movieId": 3,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-26T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "33911493-5e6f-4607-9206-baf8cdd7e830",
+        "movieId": 6,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-30T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "11b7048e-3b30-4cbd-9ed7-822e498d239b",
+        "movieId": 2,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-26T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "67dba3a3-ed03-4ff5-97a1-60869c8b3dfc",
+        "movieId": 4,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-27T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "9a2d5478-c382-4091-8ce5-406b424af094",
+        "movieId": 3,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-27T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "00a7d9a0-a116-487f-86ed-1f9773dc05c5",
+        "movieId": 2,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-29T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "fa957cba-c7ff-4e85-b8b7-aa1fd1f766d0",
+        "movieId": 4,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-31T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "248ed37e-57b2-43de-be62-341517658979",
+        "movieId": 5,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-29T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "9e090f50-8e6e-4e82-9ba1-b5defda16466",
+        "movieId": 2,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-30T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "490e2d4a-566f-494b-8dbc-6521318a2922",
+        "movieId": 6,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-31T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "07c40f8e-8cf8-4464-9be4-858c86dc9e8b",
+        "movieId": 4,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-05-26T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "f408c294-414b-41fa-9bfc-f7377209049d",
+        "movieId": 1,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-06-01T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "346c9411-a817-4170-876d-16153db72536",
+        "movieId": 4,
+        "auditoriumId": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "dateTime": "2021-06-01T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "5a004632-a5a4-43b2-9c05-ad8ae961a533",
+        "movieId": 3,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-26T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "de9c12de-5f27-483e-8fc4-efca5a92a510",
+        "movieId": 2,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-06-01T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "8a60fd75-7d7c-4359-8598-6cde3ae544d9",
+        "movieId": 1,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-26T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "daa194f1-2c28-4975-a901-a5b2fac911dc",
+        "movieId": 6,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-31T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "96f9a05b-efc9-4091-93a1-dc6ca38d9fef",
+        "movieId": 2,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-26T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "ac639ca7-6864-47c0-ad35-9f3d95e1d3a8",
+        "movieId": 3,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-27T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "68f13ce0-6f3f-484f-be85-0cac4e50679e",
+        "movieId": 4,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-30T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "6fe71e8d-f33d-4a20-9b25-680ed7b275a5",
+        "movieId": 7,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-26T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "2df02b63-4c50-4ef4-8092-1d1a6c8e22f6",
+        "movieId": 3,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-27T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "6623cca3-8d42-4a05-acf3-e7cdd9c0962b",
+        "movieId": 2,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-27T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "b5ca8478-d36a-4226-80bb-62efb24e8c6c",
+        "movieId": 2,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-30T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "bb40c27e-18df-46df-9fb0-e59b846455a3",
+        "movieId": 4,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-30T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "faf1b148-35e0-49c7-95a3-7ca983739998",
+        "movieId": 5,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-29T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "dff84cce-6a0d-4c6d-ab6c-b71f915360f4",
+        "movieId": 3,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-30T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "20bfe5a6-3fed-425a-b37d-6c1caeaa1e0a",
+        "movieId": 1,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-27T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "3e06846b-f38b-4f9d-8a32-3bc32f72cdb2",
+        "movieId": 1,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-31T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "c4a3d9ca-00fc-4ddf-b589-cf61833e1bfa",
+        "movieId": 5,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-27T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "8a2fa46a-efb3-437b-b6c3-fb72f3475c73",
+        "movieId": 7,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-29T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "ecfd36a2-6da8-494e-8d7a-c36a9af2231e",
+        "movieId": 3,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-29T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "25962084-a89e-423d-a20b-09266e39f6a2",
+        "movieId": 6,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-27T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "2032638e-ab76-4511-b68e-45a33214edce",
+        "movieId": 1,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-29T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "53d04eef-6259-49da-a68f-4aa675b091e1",
+        "movieId": 3,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-28T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "b5bd1082-34f1-42a2-8f0b-6c9aa3d01f87",
+        "movieId": 2,
+        "auditoriumId": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "dateTime": "2021-05-28T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "64adcd6a-363a-4dda-aade-c00903c228f1",
+        "movieId": 2,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-30T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "933e8ba9-e5c8-4499-bdb7-97fdd8d23ed6",
+        "movieId": 5,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-28T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "53058057-3244-468d-be41-4529860070d4",
+        "movieId": 5,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-31T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "f736b79e-8070-49d2-b435-5b0a8e5f4243",
+        "movieId": 7,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-31T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "874602df-05b9-4e30-967e-9924e0542bef",
+        "movieId": 3,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-30T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "5fae62c3-d21c-4e8e-b483-4b2dc819364f",
+        "movieId": 4,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-30T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "24495631-3bdd-45f3-946a-cee455c7130e",
+        "movieId": 4,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-28T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "433503fe-40db-4ff2-89a8-7286d6baf2ee",
+        "movieId": 7,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-29T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "a4e6198c-498c-4420-a926-16f3953dba47",
+        "movieId": 1,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-28T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "31b3e249-09a9-46ae-93bb-0ba308849c69",
+        "movieId": 7,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-27T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "e3038164-641d-43d5-bff3-4273ded2cb9c",
+        "movieId": 1,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-06-01T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "473e8b64-fb82-404e-925c-0eda6942749d",
+        "movieId": 6,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-28T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "144d4259-4399-405a-916d-a14d1f2f6fcb",
+        "movieId": 4,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-27T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "a1e2d8f3-8f39-440b-89fa-3c7e33ff0815",
+        "movieId": 4,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-30T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "bca99b4f-1590-4e0c-a09e-19a29e142ee0",
+        "movieId": 2,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-30T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "3e34dfed-af49-4e42-85f0-c23624b7e6d5",
+        "movieId": 2,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-26T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "3d16a242-425b-4d31-a157-88cf8f884639",
+        "movieId": 3,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-26T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "74b5283d-6a83-4482-8ff6-e3093aec6452",
+        "movieId": 1,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-30T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "efd082d8-f1a9-44aa-bb37-95ce48c478e5",
+        "movieId": 2,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-31T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "706d0a28-7bd0-45ff-925f-c98ab80b8603",
+        "movieId": 4,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-28T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "67d438a0-22cb-4aaf-ba87-400c0e73b81f",
+        "movieId": 5,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-31T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "e019849a-eb63-40d5-b63a-5b9243dca205",
+        "movieId": 1,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-27T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "c6d27358-4663-482d-8732-ec3138db826d",
+        "movieId": 5,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-30T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "53f62ee4-efc4-41ad-b629-def54e42916c",
+        "movieId": 1,
+        "auditoriumId": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "dateTime": "2021-05-28T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "28e7e6a5-61c8-4e4c-8cd1-096dcf019b37",
+        "movieId": 3,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-30T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "10ea4828-5419-43fd-93bb-47afe525fcca",
+        "movieId": 3,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-26T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "a24ee777-eb08-4d9b-8ac4-1824d43f8582",
+        "movieId": 4,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-26T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "f7331d28-e442-4e92-8132-2cddd0101f2e",
+        "movieId": 5,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-28T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "3e91a672-fba1-4846-8765-d15eac3e60e7",
+        "movieId": 4,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-31T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "de7d654c-d083-4610-9eda-42ae5596051b",
+        "movieId": 3,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-28T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "977f1f4c-38c8-4dae-a46e-50eb0f68f424",
+        "movieId": 2,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-06-01T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "c3d967a0-a66e-494a-a82a-64a41fbf9ca6",
+        "movieId": 3,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-27T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "21a7dada-e23a-46bd-be1a-6af36a2f36fa",
+        "movieId": 3,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-27T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "879a2637-1ae6-4542-8e96-e3d4eafd5da4",
+        "movieId": 1,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-29T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "69e3ee54-748a-43dc-bd70-0d769a1a71f6",
+        "movieId": 1,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-27T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "9f3d027a-4c4b-4fee-93c0-d66f0db770cd",
+        "movieId": 5,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-31T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "b90b34c4-3b1c-4c79-9b75-149935ed2a66",
+        "movieId": 3,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-26T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "1ca69218-f45a-4be1-9554-44930506505e",
+        "movieId": 3,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-31T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "31c7a77b-68b4-4cb3-99ec-6bfbe1c00eb9",
+        "movieId": 5,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-27T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "18da7be4-019c-4914-a10c-296eb98c9666",
+        "movieId": 5,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-26T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "7fac9022-4bf0-4eac-a474-ad9b6d7664bf",
+        "movieId": 3,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-06-01T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "66f377f7-531c-47ce-a249-cbab00bb4d9f",
+        "movieId": 6,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-27T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "625bcfe0-6c42-4ec2-b65b-f40fa38ae5fc",
+        "movieId": 5,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-27T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "cc681f5c-8c9e-4b5d-acb9-31d852429521",
+        "movieId": 1,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-26T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "ce396a3d-323d-488e-afe0-f0f299c08fb6",
+        "movieId": 2,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-27T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "70c8b242-9170-41ec-b78f-0ef17cd58692",
+        "movieId": 1,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-06-01T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "ce60bf7e-b611-4615-aa19-fe374dce0aac",
+        "movieId": 5,
+        "auditoriumId": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "dateTime": "2021-05-29T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "fc43973d-c29c-4b89-b880-0ef91e00ecef",
+        "movieId": 7,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-28T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "cc0a597f-96c2-4c59-ab43-e3cca6625f7e",
+        "movieId": 2,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-06-01T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "0bd9ccb4-12d9-4a35-965c-982cd34ecab0",
+        "movieId": 3,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-27T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "7fe53f37-31eb-44ae-bb3b-32074c65aff5",
+        "movieId": 1,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-27T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "f496d03f-60a2-45a7-9112-e25e9c6f29c1",
+        "movieId": 7,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-27T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "2c33c30d-64fc-4286-8c79-de3216edfc1d",
+        "movieId": 3,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-29T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "9ede24d9-040d-4d4c-a72e-24f038f4faf5",
+        "movieId": 7,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-28T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "113c4b90-6c80-42ed-be9b-b4b904e5a290",
+        "movieId": 4,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-31T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "c0e2e2fa-4b62-4e4c-9166-66060cd29d69",
+        "movieId": 5,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-28T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "bed32e65-0b49-4094-bef8-16ff9a74515b",
+        "movieId": 3,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-28T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "7fb6700d-6dc4-492e-bfc2-bd6b099f23a7",
+        "movieId": 7,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-28T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "377807f3-811b-4e9f-8a31-ffdece10f6b3",
+        "movieId": 3,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-27T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "55c56baf-f8bd-487a-8aa6-4e55c9829f1c",
+        "movieId": 7,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-27T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "0637f3e5-e704-49b8-845a-e12bd17e261d",
+        "movieId": 5,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-06-01T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "96a6b89f-beb3-4638-a53d-e34bd121e7ee",
+        "movieId": 1,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-27T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "ef73e623-b30e-4123-a300-e8b9034b6339",
+        "movieId": 6,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-27T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "90ed35d6-c1f5-48a7-b39c-b9a9ed735c57",
+        "movieId": 4,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-26T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "914ca576-d8e1-458f-8435-1087d6bda6b5",
+        "movieId": 7,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-26T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "78fa6502-06cd-48df-a4d9-4f382e1a940c",
+        "movieId": 7,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-28T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "c00ea8cd-4419-4c28-948d-9223d297912f",
+        "movieId": 5,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-28T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "06b5ad0c-b838-4318-9b94-3ee8895874be",
+        "movieId": 6,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-28T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "d003f0d9-5d2d-44aa-bbb6-bb374be800bd",
+        "movieId": 3,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-26T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "4f1d82f4-de3a-4b9b-8f8a-cffc0221b587",
+        "movieId": 6,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-28T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "c1d19dd1-6ea9-4c92-a5d4-8e206288bb67",
+        "movieId": 2,
+        "auditoriumId": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "dateTime": "2021-05-27T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "08be725b-bef3-47bd-a409-1dfcf75d596d",
+        "movieId": 6,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-28T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "54cdea09-1feb-43ac-86f7-789f29dfe0c7",
+        "movieId": 2,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-31T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "9f4670e7-9d5e-4943-8e67-93e21026fdd2",
+        "movieId": 2,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-30T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "dd0e23f8-8623-494b-b3b7-1836adc8b8dd",
+        "movieId": 4,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-27T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "213783b5-b120-42fa-a6cf-570165af7bc4",
+        "movieId": 4,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-30T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "321708ca-0b0c-4eaa-a5a8-45f5356a22fc",
+        "movieId": 3,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-26T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "397767e8-3dba-4098-8cc0-701f032b37a4",
+        "movieId": 5,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-29T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "dda297c0-01ea-468c-ad2c-c86b59f2eb01",
+        "movieId": 2,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-06-01T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "b6d4f3ee-5e9e-40b3-abd5-2d23ab7d587a",
+        "movieId": 6,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-30T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "67ff796d-4d68-41ce-82ce-a21c1f20d716",
+        "movieId": 6,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-28T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "db029bff-0e3d-49e8-b85d-4b07a7d9147f",
+        "movieId": 6,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-06-01T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "782127e3-2055-48e1-8b0c-949234e3ce0a",
+        "movieId": 3,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-26T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "53d91b1c-472c-4c27-84c9-de20961a1d11",
+        "movieId": 5,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-28T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "b08e66e6-d0cb-4cff-9650-d5e5b3944bbf",
+        "movieId": 4,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-06-01T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "21edc77d-7717-4b05-8536-3a35b976e759",
+        "movieId": 7,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-31T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "053f21fe-f225-4d27-a534-7860a9e3d385",
+        "movieId": 3,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-26T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "1a8af88f-ff58-4a7e-92c8-4e02b0667422",
+        "movieId": 6,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-30T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "d5eea0d7-fd14-49e1-a772-6fa64a8f0a18",
+        "movieId": 4,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-28T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "12f20f55-458e-40dd-8fb9-56d0121d65a1",
+        "movieId": 1,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-27T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "7f8d0bf1-0267-4c2f-8fc7-333724e345d1",
+        "movieId": 7,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-26T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "97591883-2b88-4111-8df2-061e9bebacf1",
+        "movieId": 4,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-27T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "227d5236-99c9-4a9d-b89f-a78663682fc6",
+        "movieId": 7,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-27T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "dee0bd8b-9cdd-44ce-87b9-40677b04c5bf",
+        "movieId": 1,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-06-01T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "dfaca5a6-464d-4fcb-9257-9ff0348403f1",
+        "movieId": 6,
+        "auditoriumId": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "dateTime": "2021-05-26T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "5fb00353-bb51-4bf1-a923-87df0df2038d",
+        "movieId": 7,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-06-01T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "927122c8-de3b-43c6-bf46-0b0453bdab28",
+        "movieId": 5,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-30T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "b4840a3f-c004-4d06-9bbf-e4e4bf51086c",
+        "movieId": 3,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-29T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "3d74de37-019d-45c2-97ec-84d6942e3db1",
+        "movieId": 5,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-27T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "cc9705a2-6e34-4f24-a7a2-e43dbde23e88",
+        "movieId": 4,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-30T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "cf87b4a2-a667-4a08-9761-70b14c51de56",
+        "movieId": 1,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-06-01T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "d0503aa8-ddf7-4bdb-af77-8005c32e36f4",
+        "movieId": 6,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-27T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "691247ef-26c7-4b85-9882-b11679304c6b",
+        "movieId": 6,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-31T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "451e8af3-e798-4190-aae0-aa6502387861",
+        "movieId": 6,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-28T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "daf304a6-d653-4576-b18c-0e3cf2fe5b16",
+        "movieId": 6,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-30T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "ccb8ba2f-705d-4d03-9e1c-8d83ffa9abf9",
+        "movieId": 3,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-27T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "8fb90497-a96f-47c1-9c4d-80978005cdb6",
+        "movieId": 5,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-06-01T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "e93e2563-178a-42b1-aaec-c1f50d10774d",
+        "movieId": 4,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-30T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "dfe66b95-0f2e-4815-81c6-445dbf03e5a1",
+        "movieId": 4,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-29T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "1dff53b5-7412-4bd8-936f-fb11355769bb",
+        "movieId": 1,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-29T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "4ddf1cd8-331d-4af0-8a98-1d4cfde6cafd",
+        "movieId": 2,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-29T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "ef3cda75-01be-4e28-8a2f-a2694a32bb3a",
+        "movieId": 2,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-29T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "10cd6610-b0d6-45c2-95ae-d5b2cb33af2a",
+        "movieId": 6,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-29T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "c97984b0-d62d-4b7c-afea-c50297a5ce91",
+        "movieId": 4,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-28T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "3eba68d4-72af-43ba-848d-1b956797d0e4",
+        "movieId": 2,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-31T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "129551de-662f-4517-ac0b-eb347e063b8c",
+        "movieId": 6,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-29T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "882e0482-3c3c-4127-89c4-2133f7a81342",
+        "movieId": 6,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-31T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "57f36c13-de20-4a07-92a1-72902f89dfa0",
+        "movieId": 1,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-26T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "88d121dd-42a6-41ef-a832-817168f4cc8c",
+        "movieId": 4,
+        "auditoriumId": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "dateTime": "2021-05-30T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "a27135ee-6ae1-41ab-b24d-1cc9b102722c",
+        "movieId": 4,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-30T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "6d4c61e6-d4d3-424a-9b3b-56312cd3048d",
+        "movieId": 1,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-30T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "3b46cf37-ed82-4d10-a82b-1fd06fcb6592",
+        "movieId": 3,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-28T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "672bae5c-1fae-43ff-a3e9-e855270c484d",
+        "movieId": 4,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-29T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "7748ea49-dedd-4632-807d-5eef02187ee8",
+        "movieId": 7,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-26T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "db6a8670-be86-45a1-a9ac-f1f50a629252",
+        "movieId": 1,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-06-01T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "af6a317a-ccb3-4692-8c2f-0a3a83427018",
+        "movieId": 6,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-31T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "e9e8b380-9a1e-49c5-8c69-5957a38b8a65",
+        "movieId": 5,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-26T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "877b75ca-4a0b-454d-ba92-99995be7c3d9",
+        "movieId": 5,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-06-01T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "dd8857da-4b82-48c7-a655-7ed4158cd0aa",
+        "movieId": 1,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-29T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "81393d04-2860-4466-b654-75034ed984d0",
+        "movieId": 1,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-27T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "eccf4684-f7f4-48bf-8a0b-28b644d5b1d4",
+        "movieId": 7,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-29T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "92a46cf1-387b-4e26-90e6-f91d08d2e607",
+        "movieId": 3,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-26T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "221b0b32-aab2-4bc8-94a1-3a887687fc05",
+        "movieId": 4,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-27T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "f916abec-0883-489d-b85f-869f597c0a6e",
+        "movieId": 2,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-30T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "e6c7228b-c20a-4476-81dd-e8da3fb6cb53",
+        "movieId": 5,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-29T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "c0b21568-075b-4ce6-ac28-ac6210376810",
+        "movieId": 1,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-31T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "8be5b254-3a76-4d44-9a5d-01c3f31fd385",
+        "movieId": 1,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-31T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "30001839-d229-46e5-9429-1a217373cd71",
+        "movieId": 3,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-29T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "95c42dcd-f051-4dcb-a56f-334f3fa9c536",
+        "movieId": 2,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-31T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "b229cee8-6ae9-4535-9450-e38390695f47",
+        "movieId": 7,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-30T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "b236ad15-1889-4f87-957e-0d15fa5488a4",
+        "movieId": 3,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-31T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "c1f43507-e7ef-48ab-940f-41c3701f39f2",
+        "movieId": 5,
+        "auditoriumId": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "dateTime": "2021-05-29T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "759e5c2a-97c6-4a42-b31b-40287acc034d",
+        "movieId": 1,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-30T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "b9b9cf19-7c9d-431c-bd4b-1f102d976e69",
+        "movieId": 4,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-31T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "2e249417-9b70-4dcb-814b-bf02aec97107",
+        "movieId": 5,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-29T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "00a71d32-fd6f-46dc-b2bc-070a127aea39",
+        "movieId": 5,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-27T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "dc8f1b63-aed0-491f-9c51-5958057ca258",
+        "movieId": 6,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-06-01T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "4b184ce1-4bf6-4a63-b20a-e4f8c20181e2",
+        "movieId": 1,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-26T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "93437bcb-fa27-413d-bb8b-54c967926d98",
+        "movieId": 1,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-26T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "f20f3b41-6074-4a0c-a7b9-de6053c054a1",
+        "movieId": 6,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-06-01T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "0d42bff8-95aa-4dc5-bfb9-e19285cd0436",
+        "movieId": 3,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-28T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "c9a693ea-68a2-44f4-9ce8-108e424a9da5",
+        "movieId": 6,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-28T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "6a28c81f-4ca2-4eff-92ff-c0d08c68714a",
+        "movieId": 1,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-26T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "f8a97369-0939-491e-9bdf-5c0b69a2341e",
+        "movieId": 4,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-27T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "7ed936ae-83b6-41bd-957f-9cd508731e85",
+        "movieId": 2,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-31T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "8b08136c-6f43-496f-9f44-7c3cf6f5dd8a",
+        "movieId": 2,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-28T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "03cb88eb-38d2-4ba4-b9a6-07c984c24de3",
+        "movieId": 1,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-27T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "cdeb9347-5680-4734-a747-652f96d7c702",
+        "movieId": 3,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-28T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "41e4c713-c595-47df-b20a-c3b8406a0c34",
+        "movieId": 5,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-06-01T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "f1913e3e-13dd-4b12-8c68-a33e9e5bfba0",
+        "movieId": 4,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-31T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "4460fd9d-2cd7-456c-8e5d-08433baf9486",
+        "movieId": 1,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-28T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "94213960-5a4b-410b-a73a-8cc6f1f2cdd4",
+        "movieId": 2,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-26T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "3f6d7157-b7b8-478c-97ca-33a47cdcc47d",
+        "movieId": 1,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-31T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "ba44062b-145a-417b-970f-ca20ff06b49a",
+        "movieId": 6,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-26T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "479be2fb-b8a7-4496-bc71-2aec1a9d81ef",
+        "movieId": 6,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-27T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "2bbed1bf-1612-44b9-9a5a-f2c7b09ff27b",
+        "movieId": 5,
+        "auditoriumId": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "dateTime": "2021-05-26T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "802d1079-3770-4ca2-98fa-6438eb4e1b07",
+        "movieId": 7,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-26T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "485fcbf8-ada5-4dfa-af5f-6ee2f64586d1",
+        "movieId": 2,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-26T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "d6996f3d-e363-40ed-990d-c7ce7a35208f",
+        "movieId": 6,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-28T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "499cb5da-facc-47eb-9061-ab707bce946a",
+        "movieId": 4,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-29T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "242005f3-a2cd-4468-add2-540dab5ef472",
+        "movieId": 3,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-06-01T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "e86990c6-72a9-45c9-a94b-e128db84578f",
+        "movieId": 3,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-30T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "b283bc33-ffc7-46cd-a714-523ee448d5e1",
+        "movieId": 7,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-27T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "7b8ca4df-d5fe-4a74-8889-3a1b5e024212",
+        "movieId": 6,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-28T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "67805a77-0199-4b90-97a6-a445c32ca9f9",
+        "movieId": 6,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-28T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "088e81f3-9d69-4ba0-8b85-aae779e1bfb7",
+        "movieId": 4,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-26T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "2b5f5bd3-c41a-4a26-b43e-f389fead8928",
+        "movieId": 3,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-27T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "6196150e-6196-4cb4-8e70-9afcb2363a3f",
+        "movieId": 3,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-29T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "866f5c14-8c04-4bad-8db0-76923cdce79c",
+        "movieId": 1,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-27T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "c1954429-42b2-4a89-a273-ef066d0e1963",
+        "movieId": 7,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-06-01T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "6083eebb-2e42-44f1-9fe4-89793f7e2f0e",
+        "movieId": 4,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-26T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "eef14ce7-2413-4463-ab05-55a40ab4714a",
+        "movieId": 1,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-27T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "9713c74f-0ba7-4d17-a2d3-34a75f9c054e",
+        "movieId": 6,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-27T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "f3a7c0b7-e0e9-42c0-bac4-b841ae77c60c",
+        "movieId": 3,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-26T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "80c53842-26c5-469c-8889-acb1146cdd92",
+        "movieId": 1,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-26T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "5cb93fab-578e-4c9a-bacf-07c833b60be2",
+        "movieId": 2,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-06-01T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "d13622dd-3eef-428d-b028-73868f106ebc",
+        "movieId": 3,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-26T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "fc7b7496-1402-4b72-8249-adbb107c7cc6",
+        "movieId": 7,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-30T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "a61cb71c-4d7e-4952-8832-7ed6aba07630",
+        "movieId": 6,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-29T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "0c397cbf-22b1-43f1-a511-8d7f8c56ae9d",
+        "movieId": 7,
+        "auditoriumId": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "dateTime": "2021-05-26T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "897e1aec-47eb-42a4-8706-79c52e93b031",
+        "movieId": 2,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-31T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "b5ef53ea-e9b8-4788-bd4f-033e03308de5",
+        "movieId": 4,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-28T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "d3d737b9-06da-4c52-97a0-7c4868f6ceef",
+        "movieId": 5,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-30T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "313ff355-050c-4001-badc-7cfe01aeaca5",
+        "movieId": 6,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-28T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "7369946b-77c8-40da-a0c1-04d7b492d07a",
+        "movieId": 5,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-28T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "8f6c35ed-4603-4219-8cfb-5071193f9935",
+        "movieId": 2,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-06-01T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "079600d9-841d-4823-926b-9bdc3c201592",
+        "movieId": 5,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-31T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "f35b4b79-af0d-4f0e-8d2e-89ff66951482",
+        "movieId": 4,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-29T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "e418d5d7-5901-4567-ace1-ba145accabae",
+        "movieId": 4,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-26T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "21af269c-4ba4-4d59-ac8c-6b9d935d1939",
+        "movieId": 3,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-26T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "be304029-5576-454c-982f-e93b874ff90d",
+        "movieId": 7,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-31T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "d871918c-aa2d-487f-91ff-8449b8456d6e",
+        "movieId": 3,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-30T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "01d10960-dbeb-413d-beec-adb406ea7b25",
+        "movieId": 7,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-28T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "a01d0ea8-9f11-4cee-a6ac-9976a47a0d48",
+        "movieId": 4,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-31T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "49ee8548-7b92-4e65-a977-2c3cc17d8a8b",
+        "movieId": 4,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-06-01T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "4d53a532-7f6b-4b65-bfdb-71aa9afa3153",
+        "movieId": 7,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-26T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "67a0f6fa-1ed1-4d26-a745-037b62ed3c61",
+        "movieId": 6,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-26T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "7b1dec53-dd6e-4c55-9aad-b6a912cf3082",
+        "movieId": 5,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-26T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "1d6f8541-3761-4d67-a06c-1297e5d2aad3",
+        "movieId": 4,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-28T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "053bfa39-2107-4dbd-a1d5-19a650e09976",
+        "movieId": 3,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-28T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "8c902c84-18d6-4590-8702-2b1f79b2fcf1",
+        "movieId": 4,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-06-01T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "0759065d-28a1-402b-9ecb-102f86151421",
+        "movieId": 4,
+        "auditoriumId": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "dateTime": "2021-05-28T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "35aa53c6-8b36-4922-b0dd-20b1871ef76d",
+        "movieId": 1,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-31T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "d6e89366-a8ee-42c4-9acd-47c6d1819a2b",
+        "movieId": 7,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-31T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "ff38bcc7-73ab-4daf-89c7-a0c8f1fe31e9",
+        "movieId": 5,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-30T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "31bfc013-b8ba-4183-8246-2245d0cd1883",
+        "movieId": 6,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-26T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "1eeadfff-faad-40bb-a629-4ed6c73bf790",
+        "movieId": 1,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-29T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "a71ee8f6-991a-438b-aeee-e25321f2722c",
+        "movieId": 6,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-30T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "afb13343-2248-4b1d-a135-779fdc348d90",
+        "movieId": 4,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-28T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "744340b6-bc76-4623-a64e-e5c886ea26ba",
+        "movieId": 7,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-26T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "456ef2ce-19a5-4cc3-aa84-3f61419a6790",
+        "movieId": 4,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-31T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "71b258b8-1377-4884-abb0-dbfa00166a1e",
+        "movieId": 7,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-27T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "d5550071-c909-4389-9302-058fcbb834b1",
+        "movieId": 5,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-29T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "1518333f-c28a-438c-a70e-e1be1cbc5266",
+        "movieId": 4,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-28T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "b734cdda-56d1-4ede-880f-9a687febb63e",
+        "movieId": 5,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-27T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "d2762255-470c-48fa-82f9-5e307e017222",
+        "movieId": 4,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-26T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "162d43a1-bbb1-4318-84ef-565fa6886205",
+        "movieId": 2,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-26T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "d6da74e7-5ccb-410e-83db-fb0ef4e6c660",
+        "movieId": 1,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-27T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "1ac52e21-1eec-4ae6-8556-82c2721e165f",
+        "movieId": 7,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-29T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "ee89f819-ef8f-4a1f-8028-5e0e07bd46d1",
+        "movieId": 5,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-26T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "bd24e694-3ecd-46bb-ac84-492197c4e5e9",
+        "movieId": 7,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-30T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "681f7d4c-3d47-4ebe-a6a6-1971cf5aba20",
+        "movieId": 4,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-31T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "9acdb1cf-3914-42f4-8b3e-b593e9b714ec",
+        "movieId": 3,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-06-01T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "c986a4bc-f41a-4e38-8c4d-1688f5ec2db7",
+        "movieId": 1,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-28T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "e34328c5-dbb5-448f-8741-96fc98d0dbd8",
+        "movieId": 5,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-26T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "96afcca3-e04a-4da4-8be3-7ca369c4c974",
+        "movieId": 7,
+        "auditoriumId": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "dateTime": "2021-05-26T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "2defefb4-2482-4928-aeae-652101b88ddc",
+        "movieId": 1,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-28T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "2de319b7-d05d-42eb-84e0-ea8efd12feff",
+        "movieId": 5,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-30T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "ad3996fd-07dc-46eb-8b90-f815a2b64666",
+        "movieId": 4,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-29T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "8a69462c-f4ca-4a25-8472-622661bb5955",
+        "movieId": 2,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-06-01T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "7c2f0be0-b2c5-423b-83a3-4bb1b2e9c8b2",
+        "movieId": 3,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-30T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "97d81e75-585a-4a64-b4dc-ed0a36c4dc0d",
+        "movieId": 7,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-31T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "b9ae8dc5-86a0-4ede-a01f-0f0855f7f83a",
+        "movieId": 5,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-30T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "549a7998-df20-4bf2-ba58-552bbc1e2088",
+        "movieId": 2,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-31T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "107c341b-4267-47d8-8aa8-5dfb4f1f7621",
+        "movieId": 4,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-31T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "dd74c718-952d-4681-b3d7-39ddce1c8946",
+        "movieId": 4,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-27T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "239e5378-056a-4003-b753-154c5f57676d",
+        "movieId": 3,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-29T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "3e52d7de-a632-456c-9b82-0d2ddfd514f9",
+        "movieId": 6,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-27T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "b7f6b323-3c2c-48bb-b3dc-292663b1c154",
+        "movieId": 6,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-30T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "a71a2b2d-8c2d-4c71-a2cc-80351327786a",
+        "movieId": 3,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-27T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "02845d5b-89b7-4867-8efe-7fc06e3a88cc",
+        "movieId": 5,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-28T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "cf136de3-b5ff-4beb-8888-6d13e3d2e8af",
+        "movieId": 1,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-29T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "6c991226-a153-43c3-9ba9-d530399a8797",
+        "movieId": 7,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-27T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "3fa1fc50-05c9-4051-97b8-3c94b3a4f3ca",
+        "movieId": 4,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-30T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "c555e373-75ec-4add-8fd6-c60b51c9e787",
+        "movieId": 1,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-30T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "21117dc5-61e4-4bbe-adcd-58643b2641ae",
+        "movieId": 6,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-06-01T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "39b8929c-c542-4618-9000-6ead3f8739fb",
+        "movieId": 2,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-06-01T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "3de79f6a-53d4-438f-ba4d-1010f26de85b",
+        "movieId": 3,
+        "auditoriumId": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "dateTime": "2021-05-31T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "7bcf16a4-c641-48a6-9090-da9d1c004dcd",
+        "movieId": 1,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-29T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "e8a6637b-eaec-4d55-93a5-04bcf7d8197d",
+        "movieId": 4,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-27T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "5fe45ab6-d677-4b16-8d0f-aae63f064ef5",
+        "movieId": 5,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-28T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "7a94b3c1-597a-439b-9294-424f5d33c484",
+        "movieId": 7,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-28T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "cad7df59-1908-40ac-b62f-6de9af8bd5a2",
+        "movieId": 6,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-31T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "0c8b0de7-4582-4db2-98f6-e543ceb88189",
+        "movieId": 6,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-06-01T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "b1ed6e1c-91bd-4a4e-b6b7-05a3006ddbc7",
+        "movieId": 6,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-29T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "b7bf5a63-f09b-48f3-9ec0-d3af182a277f",
+        "movieId": 3,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-06-01T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "8ff8627d-f836-479e-b304-7042c900a042",
+        "movieId": 2,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-26T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "be7a48d8-0b45-489d-b82a-6183fa4279ac",
+        "movieId": 4,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-29T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "a637ad9b-9554-4ee4-9261-657132962972",
+        "movieId": 6,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-29T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "e1de2524-5a18-4a8d-9f34-ef3f3a48c294",
+        "movieId": 2,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-30T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "10cfc1d4-033b-4611-8c6f-423ae2a78504",
+        "movieId": 2,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-06-01T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "c395eeb4-b98f-4a2e-a1ee-bbb5661ae994",
+        "movieId": 5,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-29T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "5ab1ee24-76d7-4907-8942-247627a3b87c",
+        "movieId": 6,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-30T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "737260b8-790a-43d0-b25f-5a193e578019",
+        "movieId": 5,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-06-01T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "7faef8dc-e97c-4e7d-aa92-412c79e789fe",
+        "movieId": 2,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-30T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "0f313b18-694f-4a62-9b7c-79f8da14b0ae",
+        "movieId": 7,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-26T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "062197ea-cc9d-4c25-8910-26daca7971ec",
+        "movieId": 6,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-27T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "e0ecfc6c-90af-44ee-9411-a12eace5c48e",
+        "movieId": 2,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-30T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "9021ba96-961f-46f5-8d24-2d62dd8ff3e3",
+        "movieId": 6,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-26T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "3727be4c-734c-4ef8-9017-dbfa1c517080",
+        "movieId": 7,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-30T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "6c972bcf-717b-4900-a147-888c2395ee2b",
+        "movieId": 2,
+        "auditoriumId": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "dateTime": "2021-05-29T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "9bdcbe6b-bcff-460a-9a23-38d079a92c39",
+        "movieId": 5,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-06-01T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "fba9ebcb-3199-4814-92d5-3a3d2cf32bb7",
+        "movieId": 1,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-27T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "a796de05-c220-4dbe-ae49-5e3971fbda37",
+        "movieId": 3,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-28T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "e61f328c-f78e-4705-9e38-e556a167320d",
+        "movieId": 5,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-06-01T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "774f0935-c539-4799-b39d-54ceba4c3d96",
+        "movieId": 7,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-29T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "de455709-996d-4f48-b361-a459c66726c5",
+        "movieId": 1,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-29T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "602ce699-7be5-461e-a3b2-c85d01ae0b50",
+        "movieId": 6,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-27T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "76c98d19-b458-4f94-8d6b-fa4eced3f81f",
+        "movieId": 7,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-29T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "30b3b631-9da4-4368-8f7d-f3b9186991d5",
+        "movieId": 1,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-27T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "f06beafa-a4e1-4a8c-ae92-b66944c2c907",
+        "movieId": 7,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-31T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "3fb497e9-30f2-4290-99bb-d4eabf8e8687",
+        "movieId": 6,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-26T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "3b109ee1-1809-456c-9fb4-e4555d7a44a6",
+        "movieId": 1,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-28T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "cf1a4fa7-21d7-4ff7-9a6a-0fc21bd46f64",
+        "movieId": 2,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-31T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "484e94be-471a-478b-b6f7-7e2c642ef483",
+        "movieId": 6,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-30T20:30:00.0000000+03:00"
+    },
+    {
+        "id": "dd6c92de-fb4d-4e32-a9cd-58cff48c8af1",
+        "movieId": 1,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-30T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "c401b9a7-f9e8-4c50-abf2-7965f4af3aa2",
+        "movieId": 2,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-31T16:00:00.0000000+03:00"
+    },
+    {
+        "id": "34c41ca0-92e5-4e46-a61b-b82b07c58500",
+        "movieId": 6,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-31T13:00:00.0000000+03:00"
+    },
+    {
+        "id": "760121ad-2ce0-4c65-9240-0336f1f80923",
+        "movieId": 4,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-30T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "318375f5-879b-4614-ae34-de8149528bf0",
+        "movieId": 5,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-29T11:30:00.0000000+03:00"
+    },
+    {
+        "id": "3fb9a565-0967-4de4-85b5-7f2d463cc40f",
+        "movieId": 7,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-30T19:00:00.0000000+03:00"
+    },
+    {
+        "id": "e06a66ae-d914-4d6a-b678-168de50aaebd",
+        "movieId": 1,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-30T14:30:00.0000000+03:00"
+    },
+    {
+        "id": "970f9451-ca8b-4845-af59-6b9ab09e8bef",
+        "movieId": 2,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-28T17:30:00.0000000+03:00"
+    },
+    {
+        "id": "4a07f27e-9fdf-4a43-8d8f-65e36c1fd92c",
+        "movieId": 7,
+        "auditoriumId": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "dateTime": "2021-05-30T11:30:00.0000000+03:00"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "id": "390e1ec5-03c4-43f2-9aeb-17b42706979b",
+        "theatreId": "39f42aad-45bf-4153-9f79-8b0d0c7017d8",
+        "name": "A1"
+    },
+    {
+        "id": "017f2016-7812-40af-a0f9-d9d65b58e969",
+        "theatreId": "39f42aad-45bf-4153-9f79-8b0d0c7017d8",
+        "name": "A2"
+    },
+    {
+        "id": "f459fbcb-3a49-4834-9f7a-1acfe94be346",
+        "theatreId": "39f42aad-45bf-4153-9f79-8b0d0c7017d8",
+        "name": "A3"
+    },
+    {
+        "id": "5f5c2ff4-0b27-486b-840a-cdc634a1a723",
+        "theatreId": "39f42aad-45bf-4153-9f79-8b0d0c7017d8",
+        "name": "A4"
+    },
+    {
+        "id": "e2fc878a-f9f9-4edc-8095-49892af744cd",
+        "theatreId": "39f42aad-45bf-4153-9f79-8b0d0c7017d8",
+        "name": "A5"
+    },
+    {
+        "id": "d1bd72b6-3008-477f-9b47-f90b92410e0d",
+        "theatreId": "39f42aad-45bf-4153-9f79-8b0d0c7017d8",
+        "name": "A6"
+    },
+    {
+        "id": "2c5a45e4-d275-4c9c-9b33-54a5ab5222aa",
+        "theatreId": "4c93c16a-c8f8-4e00-91c2-6dff0b4d10a3",
+        "name": "A1"
+    },
+    {
+        "id": "78b24c79-ab43-4636-8a92-591aa61bc65d",
+        "theatreId": "4c93c16a-c8f8-4e00-91c2-6dff0b4d10a3",
+        "name": "A2"
+    },
+    {
+        "id": "c253549d-d2d6-4645-814a-f7eac9c32f83",
+        "theatreId": "4c93c16a-c8f8-4e00-91c2-6dff0b4d10a3",
+        "name": "A3"
+    },
+    {
+        "id": "b5626f0b-5c7f-4e7d-8b5b-db4e8513c3a6",
+        "theatreId": "4c93c16a-c8f8-4e00-91c2-6dff0b4d10a3",
+        "name": "A4"
+    },
+    {
+        "id": "ebe986df-b07a-4c99-a68e-95ea05352ed7",
+        "theatreId": "4c93c16a-c8f8-4e00-91c2-6dff0b4d10a3",
+        "name": "A5"
+    },
+    {
+        "id": "4c3d9faf-846e-44e8-adfb-8bce3fde5535",
+        "theatreId": "4c93c16a-c8f8-4e00-91c2-6dff0b4d10a3",
+        "name": "A6"
+    },
+    {
+        "id": "e10c3f5c-5113-4089-825e-4939c145ef9e",
+        "theatreId": "4c93c16a-c8f8-4e00-91c2-6dff0b4d10a3",
+        "name": "A7"
+    },
+    {
+        "id": "251cb97d-08e8-47d6-9bda-b8d4b5e52da5",
+        "theatreId": "374c6646-f979-4f2b-9500-978619e2ee61",
+        "name": "A1"
+    },
+    {
+        "id": "9a3d9f40-e20c-4c17-b343-2638e47f6b81",
+        "theatreId": "374c6646-f979-4f2b-9500-978619e2ee61",
+        "name": "A2"
+    },
+    {
+        "id": "5f254ac5-3a60-45f4-a2ff-fd92930544c3",
+        "theatreId": "374c6646-f979-4f2b-9500-978619e2ee61",
+        "name": "A3"
+    },
+    {
+        "id": "2e2f68e8-deee-4a0c-9b1c-d99f2012d35b",
+        "theatreId": "374c6646-f979-4f2b-9500-978619e2ee61",
+        "name": "A4"
+    },
+    {
+        "id": "5e011f3c-c270-4453-8dd2-59279f54405b",
+        "theatreId": "374c6646-f979-4f2b-9500-978619e2ee61",
+        "name": "A5"
+    },
+    {
+        "id": "7a2e6e51-d802-4969-aaa7-20d4193dc158",
+        "theatreId": "374c6646-f979-4f2b-9500-978619e2ee61",
+        "name": "A6"
+    },
+    {
+        "id": "955850f4-2290-4286-b5b9-5ec98d403369",
+        "theatreId": "374c6646-f979-4f2b-9500-978619e2ee61",
+        "name": "A7"
+    }
+]
