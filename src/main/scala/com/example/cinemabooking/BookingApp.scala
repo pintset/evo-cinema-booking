@@ -1,7 +1,7 @@
 package com.example.cinemabooking
 
 import cats.effect.concurrent.Ref
-import cats.effect.{ExitCode, IO, IOApp}
+import cats.effect.{Blocker, ExitCode, IO, IOApp}
 import com.example.cinemabooking.domain.EventStore
 import com.example.cinemabooking.server._
 import com.example.cinemabooking.domain.show.{CommandHandler, Common, Event, Show, ShowState}

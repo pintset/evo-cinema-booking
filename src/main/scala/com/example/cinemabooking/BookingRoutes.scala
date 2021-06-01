@@ -66,15 +66,11 @@ object BookingRoutes {
     }
   }
 
-  def helloWorldRoutes[F[_]: Sync](state: State[F, ShowId, Show, Event])(implicit cs: ContextShift[F]): HttpRoutes[F] = {
+  def httpApiRoutes[F[_]: Sync: ContextShift](state: State[F, ShowId, Show, Event], blocker: Blocker): HttpRoutes[F] = {
     val dsl = new Http4sDsl[F]{}
     import dsl._
-    import java.util.concurrent._
 
     implicit def getState(showId: ShowId): F[Show] = state.current(showId)
-
-    val blockingPool = Executors.newFixedThreadPool(4)
-    val blocker = Blocker.liftExecutorService(blockingPool)
 
     def static(file: String, blocker: Blocker, request: Request[F]): F[Response[F]] =
       StaticFile.fromResource("/" + file, blocker, Some(request)).getOrElseF(NotFound())
@@ -94,7 +90,7 @@ object BookingRoutes {
         Data.Schedule.getById(id).flatMap(optResponse(_))
 
       case request @ GET -> Root / "api" / "movies" / IntVar(id) / "poster" =>
-        static(s"dist/data/posters/$id.jpg", blocker, request)
+        static(s"data/posters/$id.jpg", blocker, request)
 
       case GET -> Root / "api" / "theatres" =>
         Ok(Data.Theatre.getAll)

@@ -10,7 +10,7 @@ import scala.io.Source
 import scala.util.Try
 
 private object Parse {
-  def dataFile(fileName: String) = s"dist/data/$fileName"
+  def dataFile(fileName: String) = s"data/$fileName"
 
   def fileF[A, B, C](fileName: String, f: List[A] => Map[B, C])(implicit decoder: Decoder[List[A]]): Map[B, C] =
     Try {
@@ -135,8 +135,7 @@ object Data {
               Show.Seat(seat.seatId, seat.row, seat.number, seatState(SeatId(seat.seatId)).toString)
             }
 
-            // TODO: Fix this before pushing
-            Info(show.id, movie.title, s"http://localhost:5000/api/movies/${movie.id}/poster",
+            Info(show.id, movie.title, s"/api/movies/${movie.id}/poster",
               auditorium.name, theatre.name, show.dateTime, seats)
           }
         }
