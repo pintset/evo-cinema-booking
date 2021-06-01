@@ -14,19 +14,14 @@ import org.http4s.server.blaze.BlazeServerBuilder
 import org.http4s.server.middleware.{CORS, Logger}
 import org.http4s.server.staticcontent.{FileService, fileService}
 
-import java.util.concurrent.Executors
 import scala.concurrent.ExecutionContext.global
 
 object BookingStream {
 
   def stream[F[_]: Sync: ConcurrentEffect](port: Int,
                                      state: State[F, ShowId, Show, Event],
-                                     queue: Queue[F, ServerMessage], topic: Topic[F, ClientMessage])
-                                    (implicit T: Timer[F], cs: ContextShift[F]): Stream[F, ExitCode] = {
-
-    val blockingPool = Executors.newFixedThreadPool(4)
-    val blocker = Blocker.liftExecutorService(blockingPool)
-
+                                     queue: Queue[F, ServerMessage], topic: Topic[F, ClientMessage], blocker: Blocker)
+                                    (implicit T: Timer[F], cs: ContextShift[F]): Stream[F, ExitCode] =
     for {
       client <- BlazeClientBuilder[F](global).stream
       httpApp = (
@@ -36,13 +31,12 @@ object BookingStream {
         ).orNotFound
 
       // With Middlewares in place
-      corsHttpApp = CORS.httpApp(httpApp)
-      finalHttpApp = Logger.httpApp(true, true)(corsHttpApp)
+      // corsHttpApp = CORS.httpApp(httpApp)
+      finalHttpApp = Logger.httpApp(true, true)(httpApp)
 
       exitCode <- BlazeServerBuilder[F](global)
         .bindHttp(port, "0.0.0.0")
         .withHttpApp(finalHttpApp)
         .serve
     } yield exitCode
-  }
 }

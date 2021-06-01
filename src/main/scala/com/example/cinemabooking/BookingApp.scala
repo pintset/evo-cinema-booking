@@ -29,8 +29,8 @@ object BookingApp extends IOApp {
       commandHandler = CommandHandler.of[IO](eventStore, state)
       messageServer = MessageServer.of[IO](commandHandler)
 
-      exitCode <- {
-        val httpStream: Stream[IO, ExitCode] = BookingStream.stream[IO](httpPort, state, queue, topic)
+      exitCode <- Blocker[IO].use { blocker =>
+        val httpStream: Stream[IO, ExitCode] = BookingStream.stream[IO](httpPort, state, queue, topic, blocker)
 
         val processingStream =
         queue.dequeue
