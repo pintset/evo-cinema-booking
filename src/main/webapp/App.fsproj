@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Endpoint.fs" />
+    <Compile Include="Styles.fs" />
+    <Compile Include="Extensions.fs" />
+    <Compile Include="Types.fs" />
+    <Compile Include="Shared.fs" />
+    <Compile Include="Api.fs" />
+    <Compile Include="Common.fs" />
+    <Compile Include="Show.fs" />
+    <Compile Include="Schedule.fs" />
+    <Compile Include="Home.fs" />
+    <Compile Include="App.fs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Elmish.Bridge.Client" Version="5.0.0" />
+    <PackageReference Include="Fable.Date" Version="1.0.0" />
+    <PackageReference Include="Fable.Elmish.React" Version="3.0.1" />
+    <PackageReference Include="Fable.SimpleHttp" Version="3.0.0" />
+    <PackageReference Include="Feliz" Version="1.45.0" />
+    <PackageReference Include="Feliz.Router" Version="3.8.0" />
+    <PackageReference Include="FsToolkit.ErrorHandling" Version="2.3.0" />
+    <PackageReference Include="Thoth.Json" Version="5.1.0" />
+    <PackageReference Include="Zanaptak.TypedCssClasses" Version="0.4.0" />
+  </ItemGroup>
+</Project>
