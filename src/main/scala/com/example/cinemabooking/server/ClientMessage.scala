@@ -30,15 +30,15 @@ object ClientMessageBody {
   final case class UpdateSeatBulk(showSeats: List[ShowSeat]) extends ClientMessageBody
 
   def deserialize(body: ClientMessageBody): String = body match {
-    case HiFromServer => """{"SeatsMsg":"HiFromServer"}"""
-    case InitializeState(sessionId) => s"""{"SeatsMsg":{"InitializeState":{"SessionId":"${sessionId.value}"}}}"""
-    case UpdateSeat(showSeat: ShowSeat) => s"""{"SeatsMsg":{"UpdateSeat":{"Id":{"SeatId":"${showSeat.id.value}"},"ShowId":{"ShowId":"${showSeat.showId.value}"},"State":"${showSeat.state.toString}"}}}"""
+    case HiFromServer => """{"ShowMsg":"HiFromServer"}"""
+    case InitializeState(sessionId) => s"""{"ShowMsg":{"InitializeState":{"SessionId":"${sessionId.value}"}}}"""
+    case UpdateSeat(showSeat: ShowSeat) => s"""{"ShowMsg":{"UpdateSeat":{"Id":{"SeatId":"${showSeat.id.value}"},"ShowId":{"ShowId":"${showSeat.showId.value}"},"State":"${showSeat.state.toString}"}}}"""
     case UpdateSeatBulk(showSeats: List[ShowSeat]) =>
       def toShowSeat(showSeat: ShowSeat): String =
         s"""{"Id":{"SeatId":"${showSeat.id.value}"},"ShowId":{"ShowId":"${showSeat.showId.value}"},"State": "${showSeat.state.toString}"}"""
 
       val updateSeatBulk = showSeats.map(toShowSeat).mkString(",")
-      s"""{"SeatsMsg":{"UpdateSeatBulk":[$updateSeatBulk]}}"""
+      s"""{"ShowMsg":{"UpdateSeatBulk":[$updateSeatBulk]}}"""
   }
 }
 
